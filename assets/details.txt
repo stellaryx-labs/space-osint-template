@@ -4,9 +4,9 @@
  | |_| |___) | || |\  | | |     | | | |___| |  | |  __/| |___ / ___ \| | | |___ 
   \___/|____/___|_| \_| |_|     |_| |_____|_|  |_|_|   |_____/_/   \_\_| |_____|
                                                                                                  
-            [Put an interesting tool description here]
-              GitHub: [Link to your tool repository]
+                    [Put an interesting tool description here]
+                      GitHub: [Link to your tool repository]
 
-             Developed by [Your Name Goes Here]
+                      Developed by [Your Name Goes Here]
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════

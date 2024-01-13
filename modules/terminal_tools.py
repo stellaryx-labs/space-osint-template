@@ -12,5 +12,5 @@ def print_log(log, color):
 
 
 def get_input(prompt, color):
-    res = console.input("[bold {color}] {prompt} > [/bold {color}]")
+    res = console.input(f"[bold {color}] {prompt} > [/bold {color}]")
     return res
