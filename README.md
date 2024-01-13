@@ -1,4 +1,4 @@
-<img alt="Banner" width="700" src="https://github.com/stellaryx-labs/starlink-finder/blob/main/assets/images/preview_1.png">
+<img alt="Banner Image" width="700" src="https://github.com/stellaryx-labs/space-osint-template/blob/main/assets/images/banner.png">
 
 # Space OSINT Tool Template
 
@@ -6,7 +6,7 @@ A bare bones template for making your own space OSINT tool!
 
 ## Preview
 
-<img alt="Preview" width="700" src="https://github.com/stellaryx-labs/starlink-finder/blob/main/assets/images/preview_2.png">
+<img alt="Preview Image" width="700" src="https://github.com/stellaryx-labs/space-osint-template/blob/main/assets/images/preview.png">
 
 ## Usage
 To run [Tool Name] on your machine, follow the steps below:
@@ -17,6 +17,11 @@ $ cd space-osint-template
 $ pip install -r requirements.txt
 $ python tool.py
 ```
+
+## Feature Outline
+1. Feature #1
+2. Feature #2
+3. Feature #3
 
 ## API Usage and Process Outline
 Base URL: `API URL Link`
