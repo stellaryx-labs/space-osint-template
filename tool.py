@@ -8,13 +8,13 @@ from modules.terminal_tools import *
 console = Console()
 
 # TODO: Enter the API for your tool below:
-API_URL = "https://api.spacexdata.com/v4/starlink/"
+API_URL = "BASE API URL HERE"
 
 
 def main():
     print_menu()
     # TODO: change the input description to the data your tool needs
-    input = get_input("Enter Starlink Satellite Name", "blue")
+    input = get_input("Enter Input Value", "blue")
     print("\n")  # prints an empty line for spacing
 
     data = get_api_data(API_URL)
@@ -50,5 +50,6 @@ def generate_options():
         return  # exit the tool
 
 
+# Main Execution Point of the Script
 if __name__ == "__main__":
     main()
